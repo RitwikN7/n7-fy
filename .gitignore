@@ -130,3 +130,6 @@ dmypy.json
 
 # Files
 sensitive.py
+
+# VS Code
+.vscode
